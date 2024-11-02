@@ -4,7 +4,7 @@
 }
 @font-face {
     font-family: motorhead;
-    src: url(motorhead-font.ttf);
+    src: url(content/motorhead-font.ttf);
 }
 #heading{
     text-align: center;
